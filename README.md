@@ -1,3 +1,4 @@
+This is example of Structural directive (*ngIf, *ngFor, *ngSwitch) in Angular.
 # AngularDirective
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.

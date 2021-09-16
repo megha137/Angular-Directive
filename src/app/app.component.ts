@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular-Directive';
-}
+  name="megha";
+  num :number =0;
+
+  Days:Array <String> =["Monday","Tuesday", "Wednesday", "Thursday", "Friday", "Saturday","Sunday" ];
+  }

@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-Directive"
+    }
+  },
+  "defaultProject": "Angular-Directive",
+  "cli": {
+    "analytics": "2d46794a-e68b-4f2e-8065-067af0de0304"
+  }
 }
